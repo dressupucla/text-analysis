@@ -20,8 +20,8 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
 
 1. **Input**: Texts from Doc South -- https://docsouth.unc.edu/fpn/   (zipped file that includes a folder called “texts” in a folder called “data”)
 2. **Process**: unsupervised learning method = Topic Modeling.  What is a topic “model”? 
-  a. Download the application from GitHub: [Here](https://github.com/senderle/topic-modeling-tool). 
-  b. There’s a link to the Quickstart Guide: https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html 
+  * Download the application from GitHub: [Here](https://github.com/senderle/topic-modeling-tool). 
+  * There’s a link to the Quickstart Guide: https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html 
 3. **Output**: html & csv files.  
   We want to visualize results: 
 4. **Input II**: convert the topics-metadata.csv file into Excel -- pull into Tableau.  
@@ -46,7 +46,7 @@ What to do if…
 ### Part B: Text Analysis: relies on user to select keywords.  
 We’d change our research question slightly: giving Voyant specific words to look for. 
 1. **Voyant**: https://voyant-tools.org/ 
-  a. Try uploading the zip file. 
-  b. Show how to adjust stopwords to remove frequently-used words from results.  
-  c. Relative frequencies, (rather than word-counts)  because texts come in different sizes. 
+  * Try uploading the zip file. 
+  * Show how to adjust stopwords to remove frequently-used words from results.  
+  * Relative frequencies, (rather than word-counts)  because texts come in different sizes. 
 
