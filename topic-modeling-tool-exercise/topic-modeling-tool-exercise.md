@@ -55,3 +55,31 @@ We’d change our research question slightly: giving Voyant specific words to lo
 ### Part C: Compare  What are advantages of each method?  When to use one, when to use the other?  
  Hint: what about words such as “lead” -- can be a verb and a noun?     
  Sample questions:  What if we wanted to know whether the texts written by women are more are more religious than texts written by men?  
+
+#### Test questions:
+* The proceedings (1674-1913) of London’s criminal courts have been digitized and made available online.  Is this interface using text-analysis or topic-modeling?  https://www.oldbaileyonline.org/forms/formMain.jsp 
+* David Mimno created a web-based interface that allows users to use topic-modeling by uploading their own texts.  Why would he choose the U.S. State of the Union Addresses  as a demonstration? 
+* Here’s an example of topic modeling on the State of the Union addresses over time.  What themes dominate in Clinton, Bush, and Obama’s addresses?  
+* Yoh has transcribed his interviews and wants to code themes in Atlas.ti. Would topic modeling or text-analysis be useful to him? 
+
+## Part D: More
+
+For more in-depth work:
+* Topic Modeling: Programming Historian, MALLET:   https://programminghistorian.org/en/lessons/topic-modeling-and-mallet 
+* AntConc: For text-analysis -- at a much larger scale https://programminghistorian.org/en/lessons/corpus-analysis-with-antconc 
+
+## Part E. More -- text-analysis with “enhanced” texts.  
+
+For examples of what you can do with a lemmatized (root forms of each word), morphologically marked-up text (parts-of-speech), take a look at WordHoard: http://wordhoard.northwestern.edu/ 
+It’s a text-analysis tool that is bundled with a corpus of texts that have been marked up (encoded) to allow more sophisticated searches.   
+
+What if you want to ask the following questions about Shakespeare’s plays: Do men and women differ in the frequency with which they talk about 'love'? Is 'love' more often the subject of verse than prose?
+
+[insert image]
+
+What does such a text look like?  Each word is “tagged” with meta-data. 
+* My dog loves lead.  
+* My dog is the love of my life. 
+http://nlp.stanford.edu:8080/parser/index.jsp 
+
+#### Some example of text-analysis tools incorporated into text collections:
