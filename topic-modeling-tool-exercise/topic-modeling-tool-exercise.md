@@ -43,4 +43,10 @@ What to do if…
 * Q. I want to compare one group of texts with another.  
     * A. Try grouping/sorting the results according to attributes. In your spreadsheet you could include additional columns with attributes for each text. Add in a column for dates the texts were written or the gender of the author. 
 
-  
+### Part B: Text Analysis: relies on user to select keywords.  
+We’d change our research question slightly: giving Voyant specific words to look for. 
+1. **Voyant**: https://voyant-tools.org/ 
+  a. Try uploading the zip file. 
+  b. Show how to adjust stopwords to remove frequently-used words from results.  
+  c. Relative frequencies, (rather than word-counts)  because texts come in different sizes. 
+
