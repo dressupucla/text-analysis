@@ -16,7 +16,7 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
 #### Example of how topic modeling can be used: 
 * Find similar/dissimilar texts: In full-text databases, such as Web of Science, JStor, etc, we can cluster articles based on this model (thematic profile), without relying upon metadata that might be outdated.  
 
-![](image1.jpg)
+![](image2.png)
 
 1. **Input**: Texts from Doc South -- https://docsouth.unc.edu/fpn/   (zipped file that includes a folder called “texts” in a folder called “data”)
 2. **Process**: unsupervised learning method = Topic Modeling.  What is a topic “model”? 
@@ -31,7 +31,7 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
   Rows = (Dimensions) the Documents, 
   Columns show the proportion (Measures) of Topics. 
   
-[insert image]
+![](image1.jpg)
 
 What to do if…
 * Q. I see lots of words, the, a, an, mr, mrs, that are not helpful. 
@@ -50,7 +50,7 @@ We’d change our research question slightly: giving Voyant specific words to lo
   * Show how to adjust stopwords to remove frequently-used words from results.  
   * Relative frequencies, (rather than word-counts)  because texts come in different sizes. 
 
-[insert image]
+![](image3.jpg)
 
 ### Part C: Compare  What are advantages of each method?  When to use one, when to use the other?  
  Hint: what about words such as “lead” -- can be a verb and a noun?     
@@ -75,7 +75,7 @@ It’s a text-analysis tool that is bundled with a corpus of texts that have bee
 
 What if you want to ask the following questions about Shakespeare’s plays: Do men and women differ in the frequency with which they talk about 'love'? Is 'love' more often the subject of verse than prose?
 
-[insert image]
+![](image4.jpg)
 
 What does such a text look like?  Each word is “tagged” with meta-data. 
 * My dog loves lead.  
