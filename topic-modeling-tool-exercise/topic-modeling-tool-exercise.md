@@ -17,3 +17,30 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
 * Find similar/dissimilar texts: In full-text databases, such as Web of Science, JStor, etc, we can cluster articles based on this model (thematic profile), without relying upon metadata that might be outdated.  
 
 [insert inage here]
+
+1. **Input**: Texts from Doc South -- https://docsouth.unc.edu/fpn/   (zipped file that includes a folder called “texts” in a folder called “data”)
+2. **Process**: unsupervised learning method = Topic Modeling.  What is a topic “model”? 
+  a. Download the application from GitHub: [Here](https://github.com/senderle/topic-modeling-tool). 
+  b. There’s a link to the Quickstart Guide: https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html 
+3. **Output**: html & csv files.  
+  We want to visualize results: 
+4. **Input II**: convert the topics-metadata.csv file into Excel -- pull into Tableau.  
+  We want to see the “model” i.e., the proportion of topics in the documents.  
+  We could look for documents that have similar proportions of topics.  
+
+  Rows = (Dimensions) the Documents, 
+  Columns show the proportion (Measures) of Topics. 
+  
+[insert image]
+
+What to do if…
+  Q. I see lots of words, the, a, an, mr, mrs, that are not helpful. 
+    A. You can make a list of “stop-words” that are removed from results. 
+  Q. The topics don’t seem meaningful.  
+    A. Topic modeling relies on at least 200 texts.  This example has only 150 texts.  (It’s probably not the best example.)  
+  Q. I’m working with twitter data, and, the texts are very short. 
+    A. Try combine one day’s tweets.  Or combine all tweets over a specific time from one person.  There are lots of ways to create/combine “documents”.  
+  Q. I want to compare one group of texts with another.  
+    A. Try grouping/sorting the results according to attributes. In your spreadsheet you could include additional columns with attributes for each text. Add in a column for dates the texts were written or the gender of the author. 
+
+  
