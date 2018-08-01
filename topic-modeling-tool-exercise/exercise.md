@@ -16,7 +16,7 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
 #### Example of how topic modeling can be used: 
 * Find similar/dissimilar texts: In full-text databases, such as Web of Science, JStor, etc, we can cluster articles based on this model (thematic profile), without relying upon metadata that might be outdated.  
 
-[insert inage here]
+![](image1.jpg)
 
 1. **Input**: Texts from Doc South -- https://docsouth.unc.edu/fpn/   (zipped file that includes a folder called “texts” in a folder called “data”)
 2. **Process**: unsupervised learning method = Topic Modeling.  What is a topic “model”? 
