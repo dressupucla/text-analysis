@@ -50,3 +50,8 @@ We’d change our research question slightly: giving Voyant specific words to lo
   * Show how to adjust stopwords to remove frequently-used words from results.  
   * Relative frequencies, (rather than word-counts)  because texts come in different sizes. 
 
+[insert image]
+
+### Part C: Compare  What are advantages of each method?  When to use one, when to use the other?  
+ Hint: what about words such as “lead” -- can be a verb and a noun?     
+ Sample questions:  What if we wanted to know whether the texts written by women are more are more religious than texts written by men?  
