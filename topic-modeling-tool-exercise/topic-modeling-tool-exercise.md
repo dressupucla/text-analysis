@@ -35,12 +35,12 @@ https://docsouth.unc.edu/fpn/texts.html   We can navigate the collection [by sub
 
 What to do if…
 * Q. I see lots of words, the, a, an, mr, mrs, that are not helpful. 
-    A. You can make a list of “stop-words” that are removed from results. 
+    * A. You can make a list of “stop-words” that are removed from results. 
 * Q. The topics don’t seem meaningful.  
-    A. Topic modeling relies on at least 200 texts.  This example has only 150 texts.  (It’s probably not the best example.)  
+    * A. Topic modeling relies on at least 200 texts.  This example has only 150 texts.  (It’s probably not the best example.)  
 * Q. I’m working with twitter data, and, the texts are very short. 
-    A. Try combine one day’s tweets.  Or combine all tweets over a specific time from one person.  There are lots of ways to create/combine “documents”.  
+    * A. Try combine one day’s tweets.  Or combine all tweets over a specific time from one person.  There are lots of ways to create/combine “documents”.  
 * Q. I want to compare one group of texts with another.  
-    A. Try grouping/sorting the results according to attributes. In your spreadsheet you could include additional columns with attributes for each text. Add in a column for dates the texts were written or the gender of the author. 
+    * A. Try grouping/sorting the results according to attributes. In your spreadsheet you could include additional columns with attributes for each text. Add in a column for dates the texts were written or the gender of the author. 
 
   
